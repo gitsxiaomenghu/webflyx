@@ -1,5 +1,2 @@
 # contents
 
-- Hahaha
-
-- Hahaha 
